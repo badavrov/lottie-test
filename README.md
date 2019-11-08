@@ -1,2 +1,0 @@
-# lottie-test
-testLottie
