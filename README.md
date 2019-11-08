@@ -1,0 +1,2 @@
+# lottie-test
+testLottie
