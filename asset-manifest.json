@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lottie-test/static/css/main.34de6062.chunk.css",
+    "main.js": "/lottie-test/static/js/main.552c552d.chunk.js",
+    "main.js.map": "/lottie-test/static/js/main.552c552d.chunk.js.map",
+    "runtime-main.js": "/lottie-test/static/js/runtime-main.40934255.js",
+    "runtime-main.js.map": "/lottie-test/static/js/runtime-main.40934255.js.map",
+    "static/js/2.7ffd0399.chunk.js": "/lottie-test/static/js/2.7ffd0399.chunk.js",
+    "static/js/2.7ffd0399.chunk.js.map": "/lottie-test/static/js/2.7ffd0399.chunk.js.map",
+    "index.html": "/lottie-test/index.html",
+    "precache-manifest.3307b678cd720b0017cf85ddef5ba351.js": "/lottie-test/precache-manifest.3307b678cd720b0017cf85ddef5ba351.js",
+    "service-worker.js": "/lottie-test/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/lottie-test/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40934255.js",
+    "static/js/2.7ffd0399.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.552c552d.chunk.js"
+  ]
+}
